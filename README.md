@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ShedrackGodson's GitHub Stats" src="https://github-readme-stats.ShedrackGodson.vercel.app/api?username=ShedrackGodson&show_icons=true&hide_border=true" />
+  [![ShedrackGodson's github stats](https://github-readme-stats.vercel.app/api?username=ShedrackGodson)](https://github.com/ShedrackGodson/github-readme-stats)
 
 </details>
 
