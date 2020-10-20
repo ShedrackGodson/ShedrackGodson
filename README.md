@@ -50,7 +50,7 @@
 </details>
 
 
-[website]: https://shedrackgodson.pythonanywhere.com
+[website]: https://shedrackgodson.pythonanywhere.com/contact/
 [twitter]: https://twitter.com/godson_shedrack
 [instagram]: https://www.instagram.com/rickie_godson/
 [linkedin]: https://www.linkedin.com/in/shedrack-godson-90116117b/
