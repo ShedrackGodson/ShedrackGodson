@@ -26,8 +26,10 @@
 <br />
 <br />
 
-`### Wakatime Week Stats
-[![ShedrackGodson's wakatime stats](https://github-readme-stats.vercel.app/32360d7e-7b42-4e02-a99e-316a9aa996cb/wakatime?username=ShedrackGodson)](https://github.com/ShedrackGodson/github-readme-stats)`
+```
+### Wakatime Week Stats
+[![ShedrackGodson's wakatime stats](https://github-readme-stats.vercel.app/32360d7e-7b42-4e02-a99e-316a9aa996cb/wakatime?username=ShedrackGodson)](https://github.com/ShedrackGodson/github-readme-stats)
+```
 
 ### Latest Blog Posts 📕
 
