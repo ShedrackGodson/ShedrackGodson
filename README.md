@@ -21,7 +21,7 @@
  <br />
  
  ### Languages and Tools 🔧🔩🔩:
- ![Shedrack Godson's github stats](https://github-readme-stats.vercel.app/api?username=ShedrackGodson&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShedrackGodson)](https://github.com/ShedrackGodson/github-readme-stats)
 <br />
 <br />
 
@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![ShedrackGodson's github stats](https://github-readme-stats.vercel.app/api?username=ShedrackGodson)](https://github.com/ShedrackGodson/github-readme-stats)
+  ![Shedrack Godson's github stats](https://github-readme-stats.vercel.app/api?username=ShedrackGodson&show_icons=true&theme=radical)
 
 </details>
 
