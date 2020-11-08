@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=shedrackgodson.pythonanywhere.com&style=for-the-badge&url=https%3A%2F%2Fshedrackgodson.pythonanywhere.com)](https://shedrackgodson.pythonanywhere.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/godson_shedrack?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgodson_shedrack&screen_name=godson_shedrack)
 
-- 💼 I’m a Software Engineer.
+- 💼 I am a Software Engineer.
 - 🌱 I’m currently learning everything🤣.
 - 🌐 How to reach me, pls click this link [website](https://shedrackgodson.pythoonanywhere.com/contact/)
 - 👯 I’m looking to collaborate on open-source projects.
