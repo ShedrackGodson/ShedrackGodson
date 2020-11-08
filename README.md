@@ -28,6 +28,7 @@
 ### Wakatime Week Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shedrack)](https://github.com/ShedrackGodson/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShedrackGodson&repo=github-readme-stats)](https://github.com/ShedrackGodson/github-readme-stats)
 
 ### Latest Blog Posts 📕
 
