@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about tech related issues📡.
 - 🗣 Pronouns: He/Him
-- ⚡ Fun fact: I like to play almost all sports, but I prefer Basketball🏀.
+- ⚡ Fun fact: I like Basketball🏀.
 
 ### Connect with me 🔗:
 
@@ -17,7 +17,7 @@
 [<img align="left" alt="ShedrackGodson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ShedrackGodson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ShedrackGodson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Shedrack Godson's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/shedrackgodson)
+<!-- [![Shedrack Godson's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/shedrackgodson) -->
  <br />
  <br />
  
@@ -54,4 +54,4 @@
 [website]: https://shedrackgodson.pythonanywhere.com/contact/
 [twitter]: https://twitter.com/godson_shedrack
 [instagram]: https://www.instagram.com/rickie_godson/
-[linkedin]: https://www.linkedin.com/in/shedrack-godson-90116117b/
+[linkedin]: https://www.linkedin.com/in/shedrack-godson/
