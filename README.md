@@ -23,7 +23,7 @@ Shedrack Godson is an experienced Full-Stack Software Developer, still learning 
  <img height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
  <img height="20" src="https://www.django-rest-framework.org/img/logo.png"></code>
 
-- 🌐 How to reach me, pls click this link [website](https://shedrackgodson.pythoonanywhere.com/contact/)
+- 🌐 How to reach me, pls click this link [website](https://shedrackgodson.pythonanywhere.com/contact/)
 - 🗣 Pronouns: He/Him
 
 
