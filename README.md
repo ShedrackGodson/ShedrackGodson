@@ -4,12 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/godson_shedrack?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgodson_shedrack&screen_name=godson_shedrack)
 
 - 💼 I am a Software Engineer.
-- 🌱 I’m currently learning everything🤣.
+- 🌱 I’m currently learning ReactJs.
 - 🌐 How to reach me, pls click this link [website](https://shedrackgodson.pythoonanywhere.com/contact/)
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about tech related issues📡.
 - 🗣 Pronouns: He/Him
-- ⚡ Fun fact: I like Basketball🏀.
 
 ### Connect with me 🔗:
 
