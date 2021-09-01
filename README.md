@@ -22,8 +22,8 @@ Shedrack Godson is an experienced Full-Stack Software Developer, still learning 
 - 💬 Ask me about 
  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  <img height="20" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"></code>
-<!--  <img height="20" src="https://www.django-rest-framework.org/img/logo.png"></code> IF the below corrupt replace with this code-->
- <img height="20" src="https://miro.medium.com/max/1200/1*N5Iep1wJY1iXgMzpHxzE8w.png"></code>
+ <img height="20" src="https://www.django-rest-framework.org/img/logo.png"></code>
+<!--  <img height="20" src="https://miro.medium.com/max/1200/1*N5Iep1wJY1iXgMzpHxzE8w.png"></code>  IF the above corrupt replace with this code -->
 
 - 🌐 How to reach me, pls click this link [website](https://shedrackgodson.pythonanywhere.com/contact/)
 - 🗣 Pronouns: He/Him
