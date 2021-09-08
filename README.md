@@ -1,4 +1,4 @@
-<!-- ## Hi there, I'm Shedrack Godson👋 -->
+<!-- ## Hi there, I'm Shedrack Godson.👋 -->
 ## Welcome !!
 
 
