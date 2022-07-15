@@ -3,8 +3,8 @@
 
 
 [![Shedrack Godson StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12733154)](https://stackoverflow.com/users/12733154/shedrack)&nbsp;
-[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shedrackgodson&badges=3&--badge-margin=1px&branding=false&layout=horizontal&show-avatar=true&style=--header-bg-color:%2300A856;--border-radius:3px;--name-font-weight:bold;--name-font-size:11.5px;--header-padding:1px;--badge-rank-font-size:0.2em;--badge-location-font-size:0.2em;--badge-technology-font-size:5px;width:300px;--avatar-size:30px;--score-font-size:12px;"
-/>](https://profile.codersrank.io/user/shedrackgodson/)
+<!--[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shedrackgodson&badges=3&--badge-margin=1px&branding=false&layout=horizontal&show-avatar=true&style=--header-bg-color:%2300A856;--border-radius:3px;--name-font-weight:bold;--name-font-size:11.5px;--header-padding:1px;--badge-rank-font-size:0.2em;--badge-location-font-size:0.2em;--badge-technology-font-size:5px;width:300px;--avatar-size:30px;--score-font-size:12px;"
+/>](https://profile.codersrank.io/user/shedrackgodson/)-->
 
 <!-- ![Profile Metrics](https://github.com/elirehema/elirehema/blob/master/github-metrics.svg)-->
 [![Twitter](https://img.shields.io/twitter/follow/godson_shedrack?label=Follow&style=social)](https://www.twitter.com/godson_shedrack)
@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rickie_godson)
 
 
-Shedrack Godson is an experienced Full-Stack Software Developer, still learning new skills to sharpen my expertise and also to stay relevant with current technologies.
+Shedrack Godson, A Software Craftsman.
 
 <!-- - 🌱 I’m currently learning <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code> -->
 - 🌱 I’m currently learning <img height="20" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"> and <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
