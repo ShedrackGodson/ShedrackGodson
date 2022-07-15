@@ -1,2 +1,2 @@
-# Shedrack Godson,
+# Shedrack Godson
 ## Software Craftsman
