@@ -3,8 +3,6 @@
 
 
 [![Shedrack Godson StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12733154)](https://stackoverflow.com/users/12733154/shedrack)&nbsp;
-<!--[<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shedrackgodson&badges=3&--badge-margin=1px&branding=false&layout=horizontal&show-avatar=true&style=--header-bg-color:%2300A856;--border-radius:3px;--name-font-weight:bold;--name-font-size:11.5px;--header-padding:1px;--badge-rank-font-size:0.2em;--badge-location-font-size:0.2em;--badge-technology-font-size:5px;width:300px;--avatar-size:30px;--score-font-size:12px;"
-/>](https://profile.codersrank.io/user/shedrackgodson/)-->
 
 <!-- ![Profile Metrics](https://github.com/elirehema/elirehema/blob/master/github-metrics.svg)-->
 [![Twitter](https://img.shields.io/twitter/follow/godson_shedrack?label=Follow&style=social)](https://www.twitter.com/godson_shedrack)
